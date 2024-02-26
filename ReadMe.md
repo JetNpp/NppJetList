@@ -9,6 +9,8 @@ Notepad++ Task list plugin.
 
 [Demo](https://github.com/JetNpp/NppJetList/tree/master/doc/demo.cs "Demo")
 
+![Snap](./doc/snap/notepad++.tasklist.png "preview")
+
 ## install
 - install [Visual C++ Redistributable for Visual Studio 2019](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 - copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\NppJetList for x86 version).
