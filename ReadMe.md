@@ -9,6 +9,8 @@ Notepad++ Task list plugin.
 
 [Demo](https://github.com/JetNpp/NppJetList/tree/master/doc/demo.cs "Demo")
 
+## preview
+
 ![Snap](./doc/snap/notepad++.tasklist.png "preview")
 
 ## install
